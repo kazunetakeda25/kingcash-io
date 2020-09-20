@@ -1,0 +1,71 @@
+.login_image{
+	width: 100%;
+	height: 100vh;
+	background-image: url('../img/login_image.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+ #login_register_form{
+ 	margin-top: 20vh;
+ }
+ .page_logo_part{
+ 	background-color:#1f262d;
+ 	width: 80%;
+ 	padding-left:10%;
+ 	padding-right:10%;
+ 	padding-bottom: 50px;
+ }
+.nav-tabs > .active > a, .nav-tabs > .active > a:hover, .nav-tabs > .active > a:focus{
+	background-color: #005580;
+	color:#fff;
+}
+.btn-primary{
+	background-color: #005580;
+}
+td, th{
+	font-size:14px !important;
+	text-align:left !important;
+}
+#datatable_users_length{
+	padding-left: 20px;
+	padding-top: 10px;
+}
+#datatable_users_paginate{
+	margin-bottom: 10px;
+}
+#datatable_users{
+	border-bottom: 1px solid #ccc;
+}
+table{
+	cursor: pointer;
+}
+#datatable_btc_balance_list_length{
+	padding-left: 20px;
+	padding-top: 10px;
+}
+#datatable_btc_balance_list_paginate{
+	margin-bottom: 10px;
+}
+#datatable_btc_balance_list{
+	border-bottom: 1px solid #ccc;
+}
+#datatable_btc_withdraw_list_length{
+	padding-left: 20px;
+	padding-top: 10px;
+}
+#datatable_btc_withdraw_list_paginate{
+	margin-bottom: 10px;
+}
+#datatable_btc_withdraw_list{
+	border-bottom: 1px solid #ccc;
+}
+#datatable_lend_list_length{
+	padding-left: 20px;
+	padding-top: 10px;
+}
+#datatable_lend_list_paginate{
+	margin-bottom: 10px;
+}
+#datatable_lend_list{
+	border-bottom: 1px solid #ccc;
+}

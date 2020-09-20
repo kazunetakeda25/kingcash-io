@@ -1,0 +1,34 @@
+Referral system:
+
+Referrer is one who gives his link
+Referral is one who sign up under referrer
+
+================================
+
+
+When anyone makes new account, they will get their own referral link. (referral link is generated based on their own username)
+
+
+
+If username is arun, then their referral link will be
+
+https://kingcash.co/register?ref=arun
+
+
+when user gives his referral link to others and they signup using his link, then they become his referral.
+
+
+User should be able to see all the people who signed up under him (All people who he referred should be in "Referrals" page). It should be like this
+
+https://hextracoin.co/network        --- sAME LIKE THIS
+
+downlines means number of people who signup under that person.
+
+The referals should show usernames of people who signed up under him. Those usernames shud be clickable and clicking in username below those should further further show others like a chain
+
+=======================
+
+
+
+
+

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="./tests/bootstrap.php"
+         colors="true"
+         processIsolation="false"
+         stopOnFailure="false"
+         syntaxCheck="false"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         testSuiteLoaderClass="PHPUnit_Runner_StandardTestSuiteLoader">
+
+    <testsuites>
+        <testsuite name="Sample">
+            <directory>tests/sample/Test/Functional/address-api</directory>
+            <directory>tests/sample/Test/Functional/block-api</directory>
+            <directory>tests/sample/Test/Functional/chain-api</directory>
+            <directory>tests/sample/Test/Functional/confidence-factor</directory>
+            <directory>tests/sample/Test/Functional/transaction-api</directory>
+            <!-- hook-api tests must be executed in order -->
+            <file>tests/sample/Test/Functional/hook-api/CreateAndDeleteAllWebHooksTest.php</file>
+            <file>tests/sample/Test/Functional/hook-api/CreateAndDeleteWebHookTest.php</file>
+            <file>tests/sample/Test/Functional/hook-api/CreateAndListWebHookTest.php</file>
+            <file>tests/sample/Test/Functional/hook-api/DeleteAllWebHooksTest.php</file>
+            <file>tests/sample/Test/Functional/hook-api/GetMultipleWebHooksTest.php</file>
+            <file>tests/sample/Test/Functional/hook-api/GetWebHooksTest.php</file>
+            <file>tests/sample/Test/Functional/hook-api/ListWebHooksTest.php</file>
+            <!-- payment-api tests must be executed in order -->
+            <file>tests/sample/Test/Functional/hook-api/CreateAndDeleteAllPaymentForwardsTest.php</file>
+            <file>tests/sample/Test/Functional/hook-api/CreateAndDeletePaymentForwardTest.php</file>
+            <file>tests/sample/Test/Functional/hook-api/CreateAndListPaymentForwardTest.php</file>
+            <file>tests/sample/Test/Functional/hook-api/DeleteAllPaymentForwardsTest.php</file>
+            <file>tests/sample/Test/Functional/hook-api/GetMultiplePaymentForwardsTest.php</file>
+            <file>tests/sample/Test/Functional/hook-api/GetPaymentForwardsTest.php</file>
+            <file>tests/sample/Test/Functional/hook-api/ListPaymentForwardsTest.php</file>
+            <!-- wallet-api tests must be executed in order -->
+            <file>tests/sample/Test/Functional/wallet-api/CreateWalletTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/AddAddressesToWalletTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/RemoveAddressesFromWalletTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/GenerateNewAddressForWalletTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/GetWalletTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/GetWalletAsAddressTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/GetWalletAsFullAddressTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/GetWalletBalanceAsAddressBalanceTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/ListWalletAddressesTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/DeleteWalletTest.php</file>
+            <!-- wallet-api tests for samples in official docs site -->
+            <file>tests/sample/Test/Functional/wallet-api/CreateWalletEndpointTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/AddAddressesToWalletEndpointTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/RemoveAddressesFromWalletEndpointTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/GenerateAddressInWalletEndpointTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/WalletAddressesEndpointTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/DeleteWalletEndpointTest.php</file>
+            <!-- wallet-api HD wallet tests must be executed in order -->
+            <file>tests/sample/Test/Functional/wallet-api/CreateHDWalletTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/GenerateAddressInHDWalletTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/GetHDWalletTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/GetHDWalletAsAddressTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/GetHDWalletAsFullAddressTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/GetHDWalletAsAddressBalanceTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/ListHDWalletAddressesTest.php</file>
+            <file>tests/sample/Test/Functional/wallet-api/DeleteHDWalletTest.php</file>
+        </testsuite>
+    </testsuites>
+
+    <filter>
+        <whitelist>
+            <directory suffix=".php">./lib</directory>
+            <exclude>
+            </exclude>
+        </whitelist>
+    </filter>
+</phpunit>

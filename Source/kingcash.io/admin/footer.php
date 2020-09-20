@@ -1,0 +1,12 @@
+<script src="//code.jquery.com/jquery-1.12.4.js"></script>
+<script src="../assets/js/jquery.min.js"></script> 
+<script src="../assets/js/jquery.ui.custom.js"></script> 
+<script src="../assets/js/bootstrap.min.js"></script> 
+<script src="../js/jquery.dataTables.min.js"></script> 
+<script src="../assets/js/jquery.peity.min.js"></script> 
+<script src="../assets/js/fullcalendar.min.js"></script> 
+<script src="../assets/js/jquery.gritter.min.js"></script> 
+<script src="../assets/js/matrix.interface.js"></script> 
+<script src="../assets/js/matrix.chat.js"></script> 
+<script src="../assets/js/jquery.validate.js"></script> 
+<script src="../js/jquery.number.js"></script>

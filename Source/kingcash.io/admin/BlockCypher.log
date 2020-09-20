@@ -1,0 +1,85 @@
+[10-01-2018 09:33:25] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 09:33:25] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 09:33:26] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 09:33:27] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 09:33:27] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "\"0.00411182\"" into a *big.Int"}
+[10-01-2018 09:35:02] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 09:35:02] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 09:35:02] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 09:35:04] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 09:35:04] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "\"0.00411182\"" into a *big.Int"}
+[10-01-2018 09:36:48] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 09:36:48] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 09:36:49] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 09:36:50] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 09:36:50] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "\"0.00411182\"" into a *big.Int"}
+[10-01-2018 09:39:17] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 09:39:17] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 09:39:18] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 09:39:20] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 09:39:20] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "\"0.00411182\"" into a *big.Int"}
+[10-01-2018 09:58:04] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 09:58:04] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 09:58:05] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 09:58:06] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 09:58:06] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "\"0.00411182\"" into a *big.Int"}
+[10-01-2018 09:58:51] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 09:58:51] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 09:58:51] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 09:58:53] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 09:58:53] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "\"0.00411182\"" into a *big.Int"}
+[10-01-2018 10:07:05] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 10:07:05] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 10:07:06] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 10:07:08] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 10:07:08] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "386182.00000000006" into a *big.Int"}
+[10-01-2018 10:12:51] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 10:12:51] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 10:12:53] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 10:12:54] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 10:12:54] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "386182.00000000006" into a *big.Int"}
+[10-01-2018 10:18:18] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 10:18:18] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 10:18:19] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 10:18:20] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 10:18:20] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "386182.00000000006" into a *big.Int"}
+[10-01-2018 10:19:26] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 10:19:26] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 10:19:27] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 10:19:28] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 10:19:28] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "386182.00000000006" into a *big.Int"}
+[10-01-2018 10:37:25] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 10:37:25] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 10:37:25] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 10:37:27] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 10:37:27] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "386182.00000000006" into a *big.Int"}
+[10-01-2018 10:37:30] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 10:37:30] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 10:37:30] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 10:37:32] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 10:37:32] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "386182.00000000006" into a *big.Int"}
+[10-01-2018 10:45:13] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 10:45:13] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 10:45:14] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 10:45:15] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 10:45:15] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "386182.00000000006" into a *big.Int"}
+[10-01-2018 11:00:47] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[10-01-2018 11:00:47] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[10-01-2018 11:00:48] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[10-01-2018 11:00:49] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[10-01-2018 11:00:49] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "386182.00000000006" into a *big.Int"}
+[11-01-2018 07:19:36] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[11-01-2018 07:19:36] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[11-01-2018 07:19:36] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[11-01-2018 07:19:36] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[11-01-2018 07:19:37] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[11-01-2018 07:19:37] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[11-01-2018 07:19:38] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[11-01-2018 07:19:38] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "361182.00000000006" into a *big.Int"}
+[11-01-2018 07:19:39] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[11-01-2018 07:19:39] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "361182.00000000006" into a *big.Int"}
+[11-01-2018 07:20:21] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Not allowed to keep 'Debug' level for Live Environments. Reduced to 'INFO'
+[11-01-2018 07:20:21] BlockCypher\Core\BlockCypherHttpConnection: INFO	: POST https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3
+[11-01-2018 07:20:21] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Invalid or no certificate authority found - Retrying using bundled CA certs file
+[11-01-2018 07:20:23] BlockCypher\Core\BlockCypherHttpConnection: INFO	: Response Status 	: 400
+[11-01-2018 07:20:23] BlockCypher\Core\BlockCypherHttpConnection: ERROR	: Got Http response code 400 when accessing https://api.blockcypher.com/v1/btc/main/txs/new?token=46a5402c585a4904b1301c8476a49cf3. {"error": "Couldn't deserialize request: math/big: cannot unmarshal "361182.00000000006" into a *big.Int"}

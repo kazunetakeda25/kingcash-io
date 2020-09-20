@@ -1,0 +1,23 @@
+
+build/artifacts
+build/coverage
+build/junit.xml
+.DS_Store
+phpunit.local.xml
+*.log
+
+# IDE
+.idea
+.project
+.settings
+.buildpath
+atlassian-ide-plugin.xml
+*.bak
+
+# Composer
+vendor
+
+# Project
+var
+tools
+apigen.phar

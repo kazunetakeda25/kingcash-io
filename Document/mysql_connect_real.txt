@@ -1,0 +1,13 @@
+<?php
+	$dbservername = "localhost";
+	$dbusername = "kingcash_tang";
+	$dbpassword = "+Wt=]@8tFJTC";
+	$dbname = "kingcash_real";
+
+	// Create connection
+	$conn = new mysqli($dbservername, $dbusername, $dbpassword, $dbname);
+	// Check connection
+	if ($conn->connect_error) {
+	    die("Connection failed: " . $conn->connect_error);
+	} 
+?>

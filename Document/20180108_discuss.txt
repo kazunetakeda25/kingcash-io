@@ -1,0 +1,75 @@
+Sell Form:
+
+1st: (Only Text Change)
+
+KCP To Sell
+
+2nd: (Only Text Change)
+
+KCP Price (In BTC)
+
+3rd: (Only Text Change)
+
+Total BTC Received
+
+-------------------
+
+on buy form:
+---------------------------
+
+1st One: (Right now its BTC to spend, so we have to change this coz its confusion), its better to ask how much KCP to buy
+(text and variable both change)
+
+KCP To Buy
+
+2nd:  (Only Text Change)
+
+KCP Price (In BTC)
+
+3rd: (text and variable both change)
+
+Total BTC Spent
+
+----------------
+
+Like in buy form 
+
+1st becomes 3rd and 3rd becomes 1st
+
+
+
+got ?
+
+Yes
+
+-------
+
+and about lending
+
+i think we can limit to $25 and use last 10 trade
+
+----
+
+attacker wont know if we have this mechanism right? (10 trade lowest)
+
+if we still face any problem, then we will check but i dont think we will have any issue
+
+
+
+limit to $25, means, if last 10 trade lowest price is larger than $25, then set 1KCP = $25 USD?
+
+Only for lending.
+
+trading it can be even $50.. but we will give lending rate only at $25 maximum
+
+like if last 10 trades happenee d at $26 .. we will still offer lending at $25 only
+
+Yes, I understand
+I will do like that.
+
+
+Thank you
+
+
+
+
