@@ -1,0 +1,133 @@
+.login_image{
+	width: 100%;
+	height: 100vh;
+	background-image: url('../img/login_image.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+ #login_register_form{
+ 	margin-top: 20vh;
+ }
+ .page_logo_part{
+ 	background-color:#1f262d;
+ 	width: 80%;
+ 	padding-left:10%;
+ 	padding-right:10%;
+ 	padding-bottom: 50px;
+ }
+.nav-tabs > .active > a, .nav-tabs > .active > a:hover, .nav-tabs > .active > a:focus{
+	background-color: #005580;
+	color:#fff;
+}
+.btn-primary{
+	background-color: #005580;
+}
+#datatable_buying_orders_length{
+	visibility: hidden;
+	height: 0px;
+}
+#datatable_buying_orders_paginate{
+	visibility: hidden;
+	height: 0px;
+}
+#datatable_buying_orders{
+	border-color: #ddd;
+	cursor: pointer;
+}
+#datatable_selling_orders_length{
+	visibility: hidden;
+	height: 0px;
+}
+#datatable_selling_orders_paginate{
+	visibility: hidden;
+	height: 0px;
+}
+#datatable_selling_orders{
+	border-color: #ddd;
+	cursor: pointer;
+}
+table, td, th{
+	text-align: right !important;
+	font-size: 14px !important;
+}
+
+#datatable_my_open_buying_orders{
+	border-bottom: 1px solid #ccc;
+}
+#datatable_my_open_selling_orders{
+	border-bottom: 1px solid #ccc;
+}
+#datatable_market_history{
+	border-bottom: 1px solid #ccc;
+}
+#datatable_my_open_buying_orders_length{
+	padding-left: 20px;
+}
+#datatable_my_open_selling_orders_length{
+	padding-left: 20px;
+}
+#datatable_market_history_length{
+	padding-left: 20px;
+}
+#datatable_market_history_paginate{
+	margin-bottom: 10px;
+}
+#datatable_my_open_buying_orders_paginate{
+	margin-bottom: -10px;
+}
+#datatable_my_open_selling_orders_paginate{
+	margin-bottom: -10px;
+}
+#datatable_history_kcp_length{
+	padding-left: 20px;
+}
+#datatable_history_kcp_paginate{
+	margin-bottom: 10px;
+}
+#datatable_history_kcp{
+	border-bottom: 1px solid #ccc;
+}
+#datatable_history_btc_length{
+	padding-left: 20px;
+}
+#datatable_history_btc_paginate{
+	margin-bottom: 10px;
+}
+#datatable_history_btc{
+	border-bottom: 1px solid #ccc;
+}
+#datatable_history_usd_length{
+	padding-left: 20px;
+}
+#datatable_history_usd_paginate{
+	margin-bottom: 10px;
+}
+#datatable_history_usd{
+	border-bottom: 1px solid #ccc;
+}
+#datatable_history_exchange_length{
+	padding-left: 20px;
+}
+#datatable_history_exchange_paginate{
+	margin-bottom: 10px;
+}
+#datatable_history_exchange{
+	border-bottom: 1px solid #ccc;
+}
+
+#datatable_investment_length{
+	padding-left: 20px;
+	padding-top: 10px;
+}
+#datatable_investment_paginate{
+	margin-bottom: 10px;
+}
+#datatable_investment{
+	border-bottom: 1px solid #ccc;
+}
+.amcharts-chart-div a{
+	visibility: hidden;
+}
+#none_a_hover_1 li a:hover, #none_a_hover_2 li a:hover, #none_a_hover_3 li a:hover, #none_a_hover_1 li:active, #none_a_hover_2 li:active, #none_a_hover_3 li:active,{
+	background: none;
+}
